@@ -1,2 +1,3 @@
-# HW-01-HTML-CSS-GIT
-First batch of homework-HTML-CSS-GIT
+Wireframe HW
+First batch of homework
+Both wireframe html and css pages are now fixed
